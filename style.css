@@ -1,0 +1,91 @@
+.container{
+display: flex;
+background-color: black;
+border: 4px solid darkblue;
+height: 550px;
+width: 1000px;
+margin-left: 170px;
+border-radius: 20px;
+margin-top: 50px;
+padding-left: 50px;
+
+}
+.header{
+    color: brown;
+}
+.prageaps{
+    color: white;
+}
+.bangladesh{
+    color:white ;
+    padding-bottom: 50px;
+    font-weight: 700px;
+    word-wrap: normal;
+}
+.button{
+    
+    background-color: red;
+    height: 35px;
+    width: 110px;
+    border-radius: 5px;
+}
+.container1{
+    color: ;
+    background-color: black;
+    border: 2px solid firebrick;
+    width: 280px;
+    height: 280px;
+    margin-left: 170px;
+    border-radius: 15px;
+    margin-top: 100px;
+    display: flex;
+}
+.manu1{
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    color: white;
+    background-color: red;
+    margin-left: 35px;
+    padding: 10px;
+}
+.manu2, .manu3{
+    background-color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    margin-left: 35px;
+    padding: 10px;
+}
+.container1{
+  
+ 
+}
+.Blog image{
+    border: 2px solid firebrick;
+    border-radius: 10px;
+}
+.contaner2{
+    margin-left: 40px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+      
+}
+
+.kka{
+    height: 70px;
+    width: 175px;
+
+}
+.i love{
+    margin-right: 30px;
+
+}
+.io{
+    width: 242px;
+    margin-left: 5px;
+    margin-right: 3px;
+}
+.contaner2{
+    width: 200px;
+}
